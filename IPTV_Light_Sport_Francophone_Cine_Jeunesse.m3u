@@ -1,0 +1,55 @@
+#EXTM3U
+
+###############
+# Sport (prépondérance)
+###############
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/53/L%27%C3%89quipe21_logo_2016.svg" group-title="Sport",L'Équipe TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_sport.m3u
+
+#EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Red_Bull_TV_logo.svg" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Eurosport_logo.svg" group-title="Sport",Eurosport Free Stream
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sports.m3u
+
+###############
+# Francophones
+###############
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/France_24_logo.svg" group-title="Francophone",France 24
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u
+
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TV5Monde_logo_2016.svg" group-title="Francophone",TV5Monde
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u
+
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Arte_logo_2017.svg" group-title="Francophone",Arte
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u
+
+#EXTINF:-1 tvg-id="RTI.ci" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Logo_RTI.png" group-title="Francophone Afrique",RTI 1 (Côte d’Ivoire)
+https://rticdn.bdi.ci/rticdn/rti1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7b/Logo_CRTV.png" group-title="Francophone Afrique",CRTV (Cameroun)
+https://edge1.cdncrtv.cm/crtvweb/crtvnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_Télé_Congo.png" group-title="Francophone Afrique",Télé Congo (Congo-Brazzaville)
+https://stream.cdntvonline.com/telecongo/playlist.m3u8
+
+###############
+# Cinéma / Divertissement
+###############
+#EXTINF:-1 tvg-id="PlutoTVCinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Pluto_TV_logo_2020.svg" group-title="Cinéma",Pluto TV Cinéma
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd63c3a6f8c220009f012a1/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Rakuten_TV_logo_2019.svg" group-title="Cinéma",Rakuten TV Movies
+https://rakuten-live.akamaized.net/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlexMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Plex_logo_2022.svg" group-title="Cinéma",Plex Movies & Shows
+https://i.mjh.nz/Plex/all.m3u8
+
+###############
+# Jeunesse / Dessins animés
+###############
+#EXTINF:-1 tvg-id="PlutoKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Pluto_TV_logo_2020.svg" group-title="Jeunesse",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd63c3a6f8c220009f012a2/master.m3u8
+
+#EXTINF:-1 tvg-id="FranceTVJeunesse" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_France_TV.svg" group-title="Jeunesse",France TV Jeunesse
+https://www.francetvinfo.fr/playlist/jeunesse.m3u8
